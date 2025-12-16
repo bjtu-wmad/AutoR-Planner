@@ -20,9 +20,7 @@ AutoR-Planner is an autoregressive diffusion world model for autonomous driving,
 
 | Metric | Value |
 |--------|-------|
-| FID ↓ | 7.5 |
-| FVD ↓ | 82.8 |
-| Max Duration | 120s / 600 frames |
+| FVD ↓ | 44.55 |
 
 ### Generation Speed (per frame)
 
