@@ -1,15 +1,6 @@
 # AutoR-Planner
 
-<div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.24113-b31b1b.svg)](https://arxiv.org/abs/2506.24113)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-
-**Autoregressive Diffusion World Model for Autonomous Driving**
-
-Based on [Epona](https://kevin-thu.github.io/Epona/)
-
-</div>
 
 ---
 
